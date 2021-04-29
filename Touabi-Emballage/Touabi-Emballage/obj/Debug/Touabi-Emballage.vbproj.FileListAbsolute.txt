@@ -1,0 +1,12 @@
+C:\Users\samysabr\Desktop\ICS\Emballage\Touabi-Emballage\Touabi-Emballage\obj\Debug\Touabi-Emballage.vbprojAssemblyReference.cache
+C:\Users\samysabr\Desktop\ICS\Emballage\Touabi-Emballage\Touabi-Emballage\obj\Debug\Touabi_Emballage.frm1.resources
+C:\Users\samysabr\Desktop\ICS\Emballage\Touabi-Emballage\Touabi-Emballage\obj\Debug\Touabi_Emballage.Resources.resources
+C:\Users\samysabr\Desktop\ICS\Emballage\Touabi-Emballage\Touabi-Emballage\obj\Debug\Touabi-Emballage.vbproj.GenerateResource.cache
+C:\Users\samysabr\Desktop\ICS\Emballage\Touabi-Emballage\Touabi-Emballage\obj\Debug\Touabi-Emballage.vbproj.CoreCompileInputs.cache
+C:\Users\samysabr\Desktop\ICS\Emballage\Touabi-Emballage\Touabi-Emballage\bin\Debug\Touabi-Emballage.exe.config
+C:\Users\samysabr\Desktop\ICS\Emballage\Touabi-Emballage\Touabi-Emballage\bin\Debug\Touabi-Emballage.exe
+C:\Users\samysabr\Desktop\ICS\Emballage\Touabi-Emballage\Touabi-Emballage\bin\Debug\Touabi-Emballage.pdb
+C:\Users\samysabr\Desktop\ICS\Emballage\Touabi-Emballage\Touabi-Emballage\bin\Debug\Touabi-Emballage.xml
+C:\Users\samysabr\Desktop\ICS\Emballage\Touabi-Emballage\Touabi-Emballage\obj\Debug\Touabi-Emballage.exe
+C:\Users\samysabr\Desktop\ICS\Emballage\Touabi-Emballage\Touabi-Emballage\obj\Debug\Touabi-Emballage.xml
+C:\Users\samysabr\Desktop\ICS\Emballage\Touabi-Emballage\Touabi-Emballage\obj\Debug\Touabi-Emballage.pdb

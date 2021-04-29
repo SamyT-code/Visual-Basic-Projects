@@ -1,0 +1,12 @@
+C:\Users\samysabr\Desktop\ICS\Papeterie_En_Gros_2\Papeterie_En_Gros_2\bin\Debug\Papeterie_En_Gros_2.exe.config
+C:\Users\samysabr\Desktop\ICS\Papeterie_En_Gros_2\Papeterie_En_Gros_2\bin\Debug\Papeterie_En_Gros_2.exe
+C:\Users\samysabr\Desktop\ICS\Papeterie_En_Gros_2\Papeterie_En_Gros_2\bin\Debug\Papeterie_En_Gros_2.pdb
+C:\Users\samysabr\Desktop\ICS\Papeterie_En_Gros_2\Papeterie_En_Gros_2\bin\Debug\Papeterie_En_Gros_2.xml
+C:\Users\samysabr\Desktop\ICS\Papeterie_En_Gros_2\Papeterie_En_Gros_2\obj\Debug\Papeterie_En_Gros_2.vbprojAssemblyReference.cache
+C:\Users\samysabr\Desktop\ICS\Papeterie_En_Gros_2\Papeterie_En_Gros_2\obj\Debug\Papeterie_En_Gros_2.frmPapeterie.resources
+C:\Users\samysabr\Desktop\ICS\Papeterie_En_Gros_2\Papeterie_En_Gros_2\obj\Debug\Papeterie_En_Gros_2.Resources.resources
+C:\Users\samysabr\Desktop\ICS\Papeterie_En_Gros_2\Papeterie_En_Gros_2\obj\Debug\Papeterie_En_Gros_2.vbproj.GenerateResource.cache
+C:\Users\samysabr\Desktop\ICS\Papeterie_En_Gros_2\Papeterie_En_Gros_2\obj\Debug\Papeterie_En_Gros_2.vbproj.CoreCompileInputs.cache
+C:\Users\samysabr\Desktop\ICS\Papeterie_En_Gros_2\Papeterie_En_Gros_2\obj\Debug\Papeterie_En_Gros_2.exe
+C:\Users\samysabr\Desktop\ICS\Papeterie_En_Gros_2\Papeterie_En_Gros_2\obj\Debug\Papeterie_En_Gros_2.xml
+C:\Users\samysabr\Desktop\ICS\Papeterie_En_Gros_2\Papeterie_En_Gros_2\obj\Debug\Papeterie_En_Gros_2.pdb
